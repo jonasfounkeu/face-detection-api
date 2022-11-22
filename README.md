@@ -5,6 +5,6 @@ to upload picture, and recognizes faces.
 
 Technologies:
 
-Frontend : ReactJS
-Backend :  NodeJS, ExpressJS
+Frontend : ReactJS /
+Backend :  NodeJS, ExpressJS /
 Database: PostgreSQL
