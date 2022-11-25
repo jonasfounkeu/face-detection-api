@@ -8,3 +8,4 @@ to upload picture, and recognizes faces.
 # Frontend : ReactJS /
 # Backend :  NodeJS, ExpressJS /
 # Database: PostgreSQL
+# API used: Clarifai (face-detection in images and videos)
